@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Emreozdur
+- 🌱 I’m currently learning : C,Python
