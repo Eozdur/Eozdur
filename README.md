@@ -1,4 +1,5 @@
+![giphy](https://user-images.githubusercontent.com/101213607/157312599-beef0826-0a11-4e89-8e50-25c4af4530c5.gif)
+
+
 - 👋 Hi, I’m @Emreozdur
 - 🌱 I’m currently learning : C,Python
-
-![giphy](https://user-images.githubusercontent.com/101213607/157312294-d96f8eaa-fb42-4e33-946a-37848ccfb9fd.gif)
