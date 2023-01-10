@@ -3,4 +3,3 @@
 - 👋 Hi, I’m @Emreozdur
 - 🌱 I’m currently learning : C
 
-https://badge42.vercel.app/me
