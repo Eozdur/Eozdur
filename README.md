@@ -2,3 +2,5 @@
 
 - 👋 Hi, I’m @Emreozdur
 - 🌱 I’m currently learning : C
+
+https://badge.mediaplus.ma/greenbinary/eozdur?1337Badge=off&42Network=off&UM6P=off
