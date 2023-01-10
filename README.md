@@ -3,4 +3,5 @@
 - 👋 Hi, I’m @Emreozdur
 - 🌱 I’m currently learning : C
 
-[![eozdur's 42 stats](https://badge.mediaplus.ma/greenbinary/eozdur?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[[![eozdur's 42 stats](https://badge.mediaplus.ma/greenbinary/eozdur?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
+](https://badge42.vercel.app/me)
