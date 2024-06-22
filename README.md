@@ -1,4 +1,4 @@
-![bannnerrr](https://github.com/Eozdur/Eozdur/assets/101213607/8726816e-ef9d-4cab-a5ea-487111cae714)
+![313131](https://github.com/Eozdur/Eozdur/assets/101213607/11f3e25c-5c0e-47c0-af20-38638ebe45b5)
 
 - 👋 Hi, I’m @Emreozdur
 - 🎓 I’m currently studying in Ecole 42
