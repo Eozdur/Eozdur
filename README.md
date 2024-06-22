@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Emreozdur
-
+- 🎓 I’m currently studying in Ecole 42
+  
 ![Eozdur's Stats](https://github-readme-stats.vercel.app/api?username=Eozdur&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
 
 ![Eozdur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eozdur&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
